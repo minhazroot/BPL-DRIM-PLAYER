@@ -1,0 +1,205 @@
+
+[
+ 
+  {
+    "id": 1,
+    "PlayerName": "Shakib Al Hasan",
+    "PlayerImage": "https://placehold.co/300x400?text=Shakib",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Left-arm orthodox",
+    "price": 8500000
+  },
+  {
+    "id": 2,
+    "PlayerName": "Mustafizur Rahman",
+    "PlayerImage": "https://placehold.co/300x400?text=Mustafizur",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Left-arm fast-medium",
+    "price": 7500000
+  },
+  {
+    "id": 3,
+    "PlayerName": "Taskin Ahmed",
+    "PlayerImage": "https://placehold.co/300x400?text=Taskin",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm fast",
+    "price": 7000000
+  },
+
+  {
+     "id": 4,
+    "PlayerName": "Litton Das",
+    "PlayerImage": "https://placehold.co/300x400?text=Litton",
+    "origin": "Bangladesh",
+    "PlayerType": "Wicket-Keeper",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Does not bowl regularly",
+    "price": 6500000
+  },
+  {
+     "id": 5,
+    "PlayerName": "Towhid Hridoy",
+    "PlayerImage": "https://placehold.co/300x400?text=Hridoy",
+    "origin": "Bangladesh",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm off-break",
+    "price": 6000000
+  },
+  {
+     "id": 6,
+    "PlayerName": "Mehidy Hasan Miraz",
+    "PlayerImage": "https://placehold.co/300x400?text=Miraz",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm off-break",
+    "price": 6500000
+  },
+  {
+     "id": 7,
+    "PlayerName": "Mushfiqur Rahim",
+    "PlayerImage": "https://placehold.co/300x400?text=Mushfiqur",
+    "origin": "Bangladesh",
+    "PlayerType": "Wicket-Keeper",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Does not bowl regularly",
+    "price": 5500000
+  },
+  {
+     "id": 8,
+    "PlayerName": "Najmul Hossain Shanto",
+    "PlayerImage": "https://placehold.co/300x400?text=Shanto",
+    "origin": "Bangladesh",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Right-arm off-break",
+    "price": 5000000
+  },
+  {
+     "id": 9,
+    "PlayerName": "Mohammad Naim",
+    "PlayerImage": "https://placehold.co/300x400?text=Naim",
+    "origin": "Bangladesh",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Does not bowl regularly",
+    "price": 11000000
+  },
+  {
+     "id": 10,
+    "PlayerName": "Shoriful Islam",
+    "PlayerImage": "https://placehold.co/300x400?text=Shoriful",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Left-arm fast-medium",
+    "price": 6000000
+  },
+  {
+     "id": 11,
+    "PlayerName": "Alex Hales",
+    "PlayerImage": "https://placehold.co/300x400?text=Hales",
+    "origin": "England",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm medium",
+    "price": 7000000
+  },
+  {
+     "id": 12,
+    "PlayerName": "Dasun Shanaka",
+    "PlayerImage": "https://placehold.co/300x400?text=Shanaka",
+    "origin": "Sri Lanka",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm medium",
+    "price": 6700000
+  },
+  {
+     "id": 13,
+    "PlayerName": "Saim Ayub",
+    "PlayerImage": "https://placehold.co/300x400?text=Saim",
+    "origin": "Pakistan",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Slow left-arm orthodox",
+    "price": 6500000
+  },
+  {
+     "id": 14,
+    "PlayerName": "Mohammad Amir",
+    "PlayerImage": "https://placehold.co/300x400?text=Amir",
+    "origin": "Pakistan",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Left-arm fast",
+    "price": 6000000
+  },
+  {
+     "id": 15,
+    "PlayerName": "Kusal Mendis",
+    "PlayerImage": "https://placehold.co/300x400?text=Mendis",
+    "origin": "Sri Lanka",
+    "PlayerType": "Wicket-Keeper",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Does not bowl regularly",
+    "price": 6500000
+  },
+  {
+     "id": 16,
+    "PlayerName": "Johnson Charles",
+    "PlayerImage": "https://placehold.co/300x400?text=Charles",
+    "origin": "West Indies",
+    "PlayerType": "Wicket-Keeper",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm medium",
+    "price": 5500000
+  },
+  {
+     "id": 17,
+    "PlayerName": "Sahibzada Farhan",
+    "PlayerImage": "https://placehold.co/300x400?text=Farhan",
+    "origin": "Pakistan",
+    "PlayerType": "Batsman",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Does not bowl regularly",
+    "price": 5000000
+  },
+  {
+     "id": 18,
+    "PlayerName": "Mohammad Nawaz",
+    "PlayerImage": "https://placehold.co/300x400?text=Nawaz",
+    "origin": "Pakistan",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Left-hand",
+    "BowlingStyle": "Slow left-arm orthodox",
+    "price": 5500000
+  },
+  {
+     "id": 19,
+    "PlayerName": "Mahedi Hasan",
+    "PlayerImage": "https://placehold.co/300x400?text=Mahedi",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm off-break",
+    "price": 5000000
+  },
+  {
+     "id": 20,
+    "PlayerName": "Rashid Khan",
+    "PlayerImage": "https://placehold.co/300x400?text=Rashid",
+    "origin": "Afghanistan",
+    "PlayerType": "Bowler",
+    "BattingStyle": "Right-hand",
+    "BowlingStyle": "Right-arm leg-break",
+    "price": 8000000
+  }
+]

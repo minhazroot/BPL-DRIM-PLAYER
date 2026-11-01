@@ -10,7 +10,7 @@ const Banner = () => {
     >
       <div className=" min-h-screen flex flex-col justify-center items-center gap-5 text-center px-4  ">
         <img src={img} alt="" />
-        <h1 className="text-black text-5xl">
+        <h1 className="text-black text-5xl"> 
           Assemble Your Ultimate Dream 11 Cricket Team
         </h1>
         <h3 className="text-4xl text-gray-600">
