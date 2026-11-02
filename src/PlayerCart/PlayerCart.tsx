@@ -1,12 +1,23 @@
 import { FaFlag, FaRegUserCircle, FaWallet } from "react-icons/fa";
 import type { Iplayer } from "../PlayersType/PlayersType";
+import { useState, type Dispatch, type SetStateAction } from "react";
 
 export interface PlayerCartProps {
     player: Iplayer ;
+      Coin:number;
+      setCoin:Dispatch<SetStateAction<number>>
 }
 
-export default function PlayerCart({ player }: PlayerCartProps) {
-    
+export default function PlayerCart({ player , Coin, setCoin }: PlayerCartProps) {
+    // Step 1:Make a State  for Button  Player is Percess or note
+    const [IsSelected,SetIsSelected]=useState(false);
+    const handelAbbleAbblePlayer=()=>{
+      SetIsSelected(true)
+      const NewPrice = Coin - player.price 
+      setCoin(NewPrice)
+
+
+    }
     return (
          <div className="bg-white border border-gray-200 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition duration-300 hover:-translate-y-1">
 
@@ -77,13 +88,21 @@ export default function PlayerCart({ player }: PlayerCartProps) {
                 </h3>
               </div>
 
-              <button className="btn btn-primary rounded-xl px-5">
-                Choose Player
+               {/* step 3: Make onClick For Change  */}
+              <button onClick={()=> handelAbbleAbblePlayer()} className={`btn btn-primary rounded-xl px-5`}
+              // step 4:= make batton is Desibol when Click 
+              
+                disabled ={IsSelected ? true: false }
+                >
+
+                {/*  step 2: make Butto Text Conditional  */}
+               {IsSelected==true? "Selected" :" Chose Selected "}
+             
               </button>
 
             </div>
 
           </div>
-        </div>
+        </div> 
     )
 }

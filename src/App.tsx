@@ -1,6 +1,6 @@
 
 
-import { Suspense } from 'react';
+import { Suspense, useState } from 'react';
 import './App.css'
 import Banner from './Component/Banner/Banner'
 import Nav from './Component/Nab_bar/Nav'
@@ -15,14 +15,14 @@ return data;
 }
 
 function App() {
- 
+   const [Coin,SetCoin]=useState(5000);
 
   return (
     <>
-  <Nav/>
+  <Nav Coin={Coin} />
   <Banner/>
   <Suspense fallback={<div>Loding Data...</div>}>
-  <Players PlayerPromise ={PlayerPromise()} />
+  <Players PlayerPromise ={PlayerPromise()} Coin={Coin} SetCoin={SetCoin}  />
   </Suspense>
   
   

@@ -9,7 +9,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Left-arm orthodox",
-    "price": 8500000
+    "price": 400
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "PlayerType": "Bowler",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Left-arm fast-medium",
-    "price": 7500000
+    "price": 300
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "PlayerType": "Bowler",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm fast",
-    "price": 7000000
+    "price": 200
   },
 
   {
@@ -40,7 +40,7 @@
     "PlayerType": "Wicket-Keeper",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Does not bowl regularly",
-    "price": 6500000
+    "price": 700
   },
   {
      "id": 5,
@@ -50,7 +50,7 @@
     "PlayerType": "Batsman",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm off-break",
-    "price": 6000000
+    "price": 500
   },
   {
      "id": 6,
@@ -60,7 +60,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm off-break",
-    "price": 6500000
+    "price": 400
   },
   {
      "id": 7,
@@ -70,7 +70,7 @@
     "PlayerType": "Wicket-Keeper",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Does not bowl regularly",
-    "price": 5500000
+    "price": 100
   },
   {
      "id": 8,
@@ -80,7 +80,7 @@
     "PlayerType": "Batsman",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Right-arm off-break",
-    "price": 5000000
+    "price": 400
   },
   {
      "id": 9,
@@ -90,7 +90,7 @@
     "PlayerType": "Batsman",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Does not bowl regularly",
-    "price": 11000000
+    "price": 300
   },
   {
      "id": 10,
@@ -100,7 +100,7 @@
     "PlayerType": "Bowler",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Left-arm fast-medium",
-    "price": 6000000
+    "price": 100
   },
   {
      "id": 11,
@@ -110,7 +110,7 @@
     "PlayerType": "Batsman",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm medium",
-    "price": 7000000
+    "price": 200
   },
   {
      "id": 12,
@@ -120,7 +120,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm medium",
-    "price": 6700000
+    "price": 700
   },
   {
      "id": 13,
@@ -130,7 +130,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Slow left-arm orthodox",
-    "price": 6500000
+    "price": 500
   },
   {
      "id": 14,
@@ -140,7 +140,7 @@
     "PlayerType": "Bowler",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Left-arm fast",
-    "price": 6000000
+    "price": 400
   },
   {
      "id": 15,
@@ -150,7 +150,7 @@
     "PlayerType": "Wicket-Keeper",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Does not bowl regularly",
-    "price": 6500000
+    "price": 300
   },
   {
      "id": 16,
@@ -160,7 +160,7 @@
     "PlayerType": "Wicket-Keeper",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm medium",
-    "price": 5500000
+    "price": 200
   },
   {
      "id": 17,
@@ -170,7 +170,7 @@
     "PlayerType": "Batsman",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Does not bowl regularly",
-    "price": 5000000
+    "price": 500
   },
   {
      "id": 18,
@@ -180,7 +180,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Left-hand",
     "BowlingStyle": "Slow left-arm orthodox",
-    "price": 5500000
+    "price": 550
   },
   {
      "id": 19,
@@ -190,7 +190,7 @@
     "PlayerType": "All-Rounder",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm off-break",
-    "price": 5000000
+    "price": 300
   },
   {
      "id": 20,
@@ -200,6 +200,6 @@
     "PlayerType": "Bowler",
     "BattingStyle": "Right-hand",
     "BowlingStyle": "Right-arm leg-break",
-    "price": 8000000
+    "price": 800
   }
 ]

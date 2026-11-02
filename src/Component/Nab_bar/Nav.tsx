@@ -1,10 +1,11 @@
 
-import React from "react";
-import logo from "/src/assets/logo.png";
 
-const Nav = () => {
+import logo from "/src/assets/logo.png";
+import { FaBitcoin } from "react-icons/fa";
+const Nav = ({Coin}:{Coin:number}) => {
+
   return (
-    <nav className="bg-gray-400 w-full">
+  <nav className="bg-gray-400 w-full">
       <div className="max-w-7xl mx-auto px-4 flex justify-between items-center py-4">
 
         <img src={logo} alt="Logo" className="w-16" />
@@ -16,6 +17,7 @@ const Nav = () => {
           <li><a href="">Schedules</a></li>
         </ul>
 
+<h2 className="text-3xl text-orange-200 font-bold flex items-center gap-3"> <FaBitcoin />{Coin}</h2>
       </div>
     </nav>
   );
