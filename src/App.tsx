@@ -16,6 +16,7 @@ return data;
 
 function App() {
    const [Coin,SetCoin]=useState(5000);
+   
 
   return (
     <>
